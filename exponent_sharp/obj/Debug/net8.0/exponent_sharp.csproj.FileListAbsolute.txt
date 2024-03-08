@@ -1,0 +1,14 @@
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\bin\Debug\net8.0\exponent_sharp.exe
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\bin\Debug\net8.0\exponent_sharp.deps.json
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\bin\Debug\net8.0\exponent_sharp.runtimeconfig.json
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\bin\Debug\net8.0\exponent_sharp.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\bin\Debug\net8.0\exponent_sharp.pdb
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\obj\Debug\net8.0\exponent_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\obj\Debug\net8.0\exponent_sharp.AssemblyInfoInputs.cache
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\obj\Debug\net8.0\exponent_sharp.AssemblyInfo.cs
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\obj\Debug\net8.0\exponent_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\obj\Debug\net8.0\exponent_sharp.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\obj\Debug\net8.0\refint\exponent_sharp.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\obj\Debug\net8.0\exponent_sharp.pdb
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\obj\Debug\net8.0\exponent_sharp.genruntimeconfig.cache
+C:\Users\Davies\Desktop\2024\Programming\C#\exponent_sharp\exponent_sharp\obj\Debug\net8.0\ref\exponent_sharp.dll
